@@ -14,6 +14,7 @@ public class GeneralModel extends CalculatorModel{
 
     static  {
         Sysgsdgjg;
+        sdfsyfhsdghudsgh;
     }
 
 
