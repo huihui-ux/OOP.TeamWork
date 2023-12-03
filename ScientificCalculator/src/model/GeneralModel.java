@@ -13,7 +13,7 @@ public class GeneralModel extends CalculatorModel{
     private static HashMap<String, Integer> operationPriority = new HashMap<>();
 
     static  {
-        
+        Sysgsdgjg;
     }
 
 
